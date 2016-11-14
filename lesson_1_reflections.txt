@@ -20,4 +20,4 @@ Answer: With the command like git checkout, I can go back and see when the bug w
 
 Question: Now that you have your workspace set up, what do you want to try using Git for?
 Answer: 1. To build my website
-	3. To start working on my course which alos has many codes.
+	2. To start working on my course which alos has many codes.
